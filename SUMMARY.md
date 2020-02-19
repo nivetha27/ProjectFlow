@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Summary](summary.md)
+* [SUMMARY](summary.md)
 
