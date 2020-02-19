@@ -1,5 +1,5 @@
 ---
-description: First page.
+description: First page
 ---
 
 # Introduction
